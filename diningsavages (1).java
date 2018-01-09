@@ -1,5 +1,5 @@
 //Anusha Swamy
-//Satvir Singh
+
 package dining;
 import java.util.LinkedList;
 import java.util.Queue;
